@@ -10,5 +10,10 @@ dev分支更改
 
 #masterchange
 
+<<<<<<< HEAD
 #dev change in sts1
+=======
+
+@master online change
+>>>>>>> branch 'master' of https://github.com/linlianjun/emmm.git
 
